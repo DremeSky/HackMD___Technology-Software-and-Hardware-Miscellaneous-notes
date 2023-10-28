@@ -1,8 +1,7 @@
 # 心得&知識分享
 ## 半導體
-<center class="half">
-### [《CoWoS》](https://money.udn.com/money/story/5612/7332224)　　　　![](https://hackmd.io/_uploads/Hy0PMfuGa.png)
-一種最新的技術，以台積電為首開發使用中。
+### [《CoWoS》](https://money.udn.com/money/story/5612/7332224)　　　　![](https://hackmd.io/_uploads/Hy0PMfuGa.png =50%x)
+一種最新的技術，以台積電為首開發使用中。\
 與日常的Wos 把晶片疊在基板上不同；CoWoS 把晶片疊在晶片上面，也就是大的電晶元件上在疊小的電晶元件。可突破壓縮空間的限制。
 
 
@@ -16,8 +15,8 @@
 
 
 ## AI人工智慧
-<影片> [資料流程處理](https://www.youtube.com/watch?v=ecqBzmZuCR0)
-<影片> [數據圖型理論](https://www.youtube.com/watch?v=1RWdFZtl3EE)
+<影片> [資料流程處理](https://www.youtube.com/watch?v=ecqBzmZuCR0)\
+<影片> [數據圖型理論](https://www.youtube.com/watch?v=1RWdFZtl3EE)\
 <影片> [相關演算法與其他理論](https://www.youtube.com/watch?v=HGH9rBShRV0)
 
 
@@ -25,8 +24,8 @@
 
 ## 手機軟體開發
 ### （安卓） Android Studio
-使用Java / [Kotlin](https://zh.m.wikipedia.org/zh-tw/Kotlin) 進行軟體開發，主要分為：
-　1. 拉軟體模塊，進行版面設計。
+使用Java / [Kotlin](https://zh.m.wikipedia.org/zh-tw/Kotlin) 進行軟體開發，主要分為：\
+　1. 拉軟體模塊，進行版面設計。\
 　2. 程式編碼，定義模塊執行內容。
 
 #### 《內建語法》
@@ -50,7 +49,7 @@
 
 
 #### 《外掛程式》
-除內建現成的功能，Android Studio允許與外部其他程式進行連結，或導入開源庫。諸如使用Google Map，實現定位、景點介紹等功能。
+除內建現成的功能，Android Studio允許與外部其他程式進行連結，或導入開源庫。諸如使用Google Map，實現定位、景點介紹等功能。\
 需要至對應網站申請API後，至Android Studio內部編寫擴充功能。
 
 
