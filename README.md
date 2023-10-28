@@ -1,7 +1,7 @@
 # 心得&知識分享
 ## 半導體
 ### [《CoWoS》](https://money.udn.com/money/story/5612/7332224)
-<img width="400" src="[https://github.com/DremeSky/Cryptology-Tour-and-Enigma-Solving/assets/114667055/050b8bcb-1d07-4ea6-a53d-169ce7286b63](https://hackmd.io/_uploads/Hy0PMfuGa.png)">
+<img width="400" src="https://money.udn.com/money/story/5612/7332224#gallery-2">
 一種最新的技術，以台積電為首開發使用中。\
 與日常的Wos 把晶片疊在基板上不同；CoWoS 把晶片疊在晶片上面，也就是大的電晶元件上在疊小的電晶元件。可突破壓縮空間的限制。
 
